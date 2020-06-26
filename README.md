@@ -8,7 +8,7 @@
 
 1.上传到/modules/servers
 
-2.添加服务器时账号密码填写为nextcloud管理员账号密码,服务器详情中访问散列值填写为'<serveraddress>http://NextCloud地址/</serveraddress>'
+2.添加服务器时账号密码填写为nextcloud管理员账号密码,服务器详情中访问散列值填写为 ``` <serveraddress>http://NextCloud地址/</serveraddress> ```
 
 3.添加产品测试
 
